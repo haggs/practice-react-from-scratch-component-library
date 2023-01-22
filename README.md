@@ -1,11 +1,4 @@
-# template-storybook-react-library
+# practice-react-from-scratch-component-library
 
-A template for creating React component libraries using Storybook, styled-components, and typescript.
-
-To create a component, run:
-
-```
-npm run generate MyComponent
-```
-
-Then add the new component to `src/index.ts`
+A component library built from scratch using React, TypeScript, and Storybook. This is not intended to be professional or high-quality, it's just to
+practice for React coding interviews.

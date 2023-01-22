@@ -1,7 +1,7 @@
 {
-  "name": "template-storybook-react-library",
+  "name": "practice-react-from-scratch-component-library",
   "version": "1.0.0",
-  "description": "A template for creating React component libraries using Storybook, styled-components, and typescript.",
+  "description": "A component library built from scratch using React, TypeScript, and Storybook",
   "main": "build/index.js",
   "module": "build/index.esm.js",
   "files": [
@@ -24,16 +24,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/haggs/template-storybook-react-library.git"
+    "url": "git+https://github.com/haggs/practice-react-from-scratch-component-library.git"
   },
   "author": {
     "name": "Dan Haggerty"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/haggs/template-storybook-react-library/issues"
+    "url": "https://github.com/haggs/practice-react-from-scratch-component-library/issues"
   },
-  "homepage": "https://github.com/haggs/template-storybook-react-library#readme",
+  "homepage": "https://github.com/haggs/practice-react-from-scratch-component-library#readme",
   "peerDependencies": {
     "react": ">= 18",
     "react-dom": ">= 18",
@@ -71,7 +71,5 @@
   },
   "dependencies": {
     "classnames": "^2.3.2"
-  },
-  "readme": "ERROR: No README data found!",
-  "_id": "template-storybook-react-library@4.0.1"
+  }
 }
